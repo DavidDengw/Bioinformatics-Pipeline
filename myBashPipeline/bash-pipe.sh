@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This shell script is a simple pipline that will use BWA to align 2 sample sequnces with the reference genome provided by tiny-test-data online.
+# This shell script is a simple pipline thats aligns pair end reads with the reference genome provided by tiny-test-data online.
 
 cd ./tiny-test-data/wgs ||
 
